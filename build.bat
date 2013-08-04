@@ -1,0 +1,2 @@
+msbuild build.xml
+pause
